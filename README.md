@@ -89,15 +89,4 @@ The STR covers use case testing for user login, admin login, create booking and 
 
 ## 💻 Source Code
 
-This is a group project, so the source code is kept private. It's available on request for interviews.
-
-## 👥 Team
-
-| Name |
-|---|
-| Muhammad Amirul Iqmal bin Zaini |
-| Siti Raudah binti Abu Bakar |
-| Aiesyah Hannani binti Mohd Harisan |
-| Ahmad Hafizan bin Ahmad Mohtar |
-
-Supervised by **Miss Siti Fatimah binti Mohd Rum**.
+This was built as a **group project** with three teammates, so the source code is kept private. It's available on request for interviews.
