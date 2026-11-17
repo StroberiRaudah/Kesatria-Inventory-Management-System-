@@ -87,6 +87,11 @@ a **Software Design Description (SDD)** and a **Software Test Report (STR)**. Se
 
 The STR covers use case testing for user login, admin login, create booking and booking approval.
 
-## 💻 Source Code
+## 👥 Team
 
-This was built as a **group project** with three teammates, so the source code is kept private. It's available on request for interviews.
+This was a group project by:
+
+1. Siti Raudah
+2. Ahmad Hafizan
+3. Amirul Iqmal
+4. Aiesyah Hannani
